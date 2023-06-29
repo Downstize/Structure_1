@@ -1,0 +1,15 @@
+/Users/downstize/С# Projects/Structure_1/bin/Debug/net7.0/Structure_1
+/Users/downstize/С# Projects/Structure_1/bin/Debug/net7.0/Structure_1.deps.json
+/Users/downstize/С# Projects/Structure_1/bin/Debug/net7.0/Structure_1.runtimeconfig.json
+/Users/downstize/С# Projects/Structure_1/bin/Debug/net7.0/Structure_1.dll
+/Users/downstize/С# Projects/Structure_1/bin/Debug/net7.0/Structure_1.pdb
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.csproj.AssemblyReference.cache
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.AssemblyInfoInputs.cache
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.AssemblyInfo.cs
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.csproj.CoreCompileInputs.cache
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.dll
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/refint/Structure_1.dll
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.pdb
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/Structure_1.genruntimeconfig.cache
+/Users/downstize/С# Projects/Structure_1/obj/Debug/net7.0/ref/Structure_1.dll
